@@ -1,4 +1,5 @@
-#store a 3 fruits name and print them 
+#store a 3 fruits name and print them.
+ 
 a=apple
 b=banana
 c=water melon
