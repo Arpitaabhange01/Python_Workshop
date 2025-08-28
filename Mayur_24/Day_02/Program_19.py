@@ -4,14 +4,18 @@ num1 = float(input("Enter first number: "))
 num2 = float(input("Enter second number: "))
 operation = input("Enter operation (+, -, *, /): ")
 if operation == '+':
-    print("Result:", num1 + num2)
+    Result=num1 + num2
+    print("Result:", Result )
 elif operation == '-':
-    print("Result:", num1 - num2)
+    Result=num1 - num2
+    print("Result:", Result)
 elif operation == '*':
-    print("Result:", num1 * num2)
+    Result=num1 * num2
+    print("Result:", Result)
 elif operation == '/':
     if num2 != 0:
-        print("Result:", num1 / num2)
+        Result=num1 / num2
+        print("Result:", Result)
     else:
         print("Error: Division by zero!")
 else:
