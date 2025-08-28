@@ -1,3 +1,3 @@
-# Print the number from 1 to 10 using for loop.
+# 5. Print the number from 1 to 10 using for loop
 for i in range(1,11):
   print(i)
