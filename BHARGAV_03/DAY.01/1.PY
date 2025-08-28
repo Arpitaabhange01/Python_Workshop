@@ -1,4 +1,5 @@
-#store student name, give age,marks, in variable and print them 
+#store student name, give age,marks, in variable and print them.
+ 
 a="BHARGAV BORUL"
 b=19
 c=18
