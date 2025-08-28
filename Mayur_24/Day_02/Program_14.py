@@ -1,5 +1,5 @@
 # 4. Swap two numbers without using a variable
-x = float(input("\nEnter first number to swap (without temp): "))
+x = float(input("Enter first number to swap (without temp): "))
 y = float(input("Enter second number: "))
 print("Before swapping: x =", x, ", y =", y)
 x, y = y, x
