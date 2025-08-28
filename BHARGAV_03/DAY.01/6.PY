@@ -1,4 +1,3 @@
 #print a pattern of stars
-print("***")
-print("***")
-print("***")
+for i in range(7):
+  print("*******")
